@@ -1,7 +1,6 @@
 ## Preview
 You can see [PDF](https://raw.githubusercontent.com/lylpask/About-Myself/master/Resume_Fall_2018/Paskowitz_Resume__Fall_2018_.pdf)
 
-![alt tag](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)
 
 ## Quick Start
 
